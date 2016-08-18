@@ -1,4 +1,4 @@
-#RICOH THETA S Full Remote Controler <BR>(for which a ESP8266 was used)
+#RICOH THETA S Full Remote Controller <BR>(for which a ESP8266 was used)
 RICOH THETA S Remote Control Software (Full Control Edition) for Switch Science ESP-WROOM-02 Dev.board <BR>
 ##Example of making hardware
 https://twitter.com/san_san_santa/status/668861299040718849
